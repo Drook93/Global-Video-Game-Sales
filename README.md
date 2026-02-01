@@ -6,7 +6,7 @@ This project forecasts global video game sales and using Prophet model on Kaggle
 ↓↓↓Below shows a breakdown in further details of the steps I took.↓↓↓
 
 </div>
-----------------------------------------------------------------------------------------------------------
+
 <div align="center">
  
 ## Video Game Sales Dashboard🖥️
