@@ -1,8 +1,7 @@
 ![Main Image Banner](https://raw.githubusercontent.com/Drook93/Global-Video-Game-Sales/main/Tableau%20Dashboard/Images%20%26%20Videos/Video%20Game%20Sales%20Banner-1.png)
 <div align="center">
  
-This project forecasts global video game sales and using Prophet model on Kaggle's dataset of about 16,600 rows which included the following columns:game name, platform, release year, genre, publisher, global sales, and regional sales breakdown. I cleaned the data in pandas trained Prophet and built and ran a Tableau dashboard and utilised the built in forecasting tool to predict one year ahead into 2017, then compared it against Prophet.
-
+This project forecasts global video game sales and using Prophet model on Kaggle's dataset which included the following features: Game-Name, Platform, Release Year, Genre, Publisher, Global Sales and Regional Sales breakdown. I cleaned the data in pandas. Built, trained/tuned Prophet and ran developed a Tableau dashboard for the findings. Utilised the native forecasting tool to predict one year ahead into 2017, then compared it against Prophet's metrics.
 ↓↓↓Below shows a breakdown in further details of the steps I took.↓↓↓
 
 </div>
